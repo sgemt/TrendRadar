@@ -7,34 +7,8 @@ DJI
 宇树
 王兴兴
 
-智元
-灵犀
-稚晖君
-彭志辉
-
-京东
-刘强东
-
-字节
-bytedance
-张一鸣
-
-特斯拉
-马斯克
-
-微软
-Microsoft
-
-英伟达
-NVIDIA
-黄仁勋
-
-AMD
-
-谷歌
-google
-gemini
-deepmind
+阿里
+灵光
 
 chatgpt
 openai
@@ -43,13 +17,9 @@ sora
 claude
 Anthropic
 
-iphone
-ipad
-mac
-ios
-
 ai
 !gai
+！air
 人工智能
 
 自动驾驶
@@ -59,7 +29,7 @@ ai
 科技
 
 腾讯
-企业微信服务商
+企业微信
 微信
 
 同济大学
